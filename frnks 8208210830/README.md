@@ -1,4 +1,4 @@
-
+# 目录
 
 - [很高兴能来参加升华工作室程序部二面！](#%E5%BE%88%E9%AB%98%E5%85%B4%E8%83%BD%E6%9D%A5%E5%8F%82%E5%8A%A0%E5%8D%87%E5%8D%8E%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%A8%8B%E5%BA%8F%E9%83%A8%E4%BA%8C%E9%9D%A2%EF%BC%81)
   * [学习git的过程](#%E5%AD%A6%E4%B9%A0git%E7%9A%84%E8%BF%87%E7%A8%8B)
@@ -59,7 +59,7 @@ git push -u origin master
 
 ## 学习Markdown的过程
 
-我对Markdown并不陌生。
+其实我对Markdown并不陌生。
 
 我曾经搭建过自己的[个人博客](http://frnks.top/)，写博客就是用的Markdown~ ~~(只不过我已经好久没更新过博客了，里面也没有什么有技术含量的东西，纯属搭着玩的)~~
 
@@ -69,7 +69,7 @@ git push -u origin master
 
 我觉得这个`README.md`应该也算是一种实践吧
 
-或者说可以去看看我的博客 虽然以前写的有点简陋（
+或者说可以去看看我的[博客](http://frnks.top/) 虽然以前写的有点简陋（
 
 这里就来个mermaid流程图8
 
