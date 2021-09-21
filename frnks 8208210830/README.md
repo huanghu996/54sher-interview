@@ -1,6 +1,14 @@
 
 
-[TOC]
+- [很高兴能来参加升华工作室程序部二面！](#%E5%BE%88%E9%AB%98%E5%85%B4%E8%83%BD%E6%9D%A5%E5%8F%82%E5%8A%A0%E5%8D%87%E5%8D%8E%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%A8%8B%E5%BA%8F%E9%83%A8%E4%BA%8C%E9%9D%A2%EF%BC%81)
+  * [学习git的过程](#%E5%AD%A6%E4%B9%A0git%E7%9A%84%E8%BF%87%E7%A8%8B)
+    + [经历](%E7%BB%8F%E5%8E%86)
+    + [实践](#%E5%AE%9E%E8%B7%B5)
+  * [学习Markdown的过程](#%E5%AD%A6%E4%B9%A0Markdown%E7%9A%84%E8%BF%87%E7%A8%8B)
+  * [学习Markdown的实践](#%E5%AD%A6%E4%B9%A0Markdown%E7%9A%84%E5%AE%9E%E8%B7%B5)
+  * [进入程序部之后想学习的东西](#%E8%BF%9B%E5%85%A5%E7%A8%8B%E5%BA%8F%E9%83%A8%E4%B9%8B%E5%90%8E%E6%83%B3%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%B8%9C%E8%A5%BF)
+  * [结语](#%E7%BB%93%E8%AF%AD)
+
 ------
 
 # 很高兴能来参加升华工作室程序部二面！
@@ -96,4 +104,9 @@ graph TD
 
 4. 与程序部的大家畅聊最新前沿技术
 
-差不多就这样了
+## 结语
+
+感谢您能抽空阅读！
+
+写完了才发现Github的Markdown预览似乎不支持mermaid...总之在Typora里可以看到啦🤗
+
