@@ -83,6 +83,10 @@ graph TD
 	3 --> 5{{建立个人博客}};
 ```
 
+<img src=".\flow.png" style="zoom: 80%;" />
+
+*Github不支持显示mermaid流程图，拿张图片凑合一下*
+
 [^Mermaid官方文档]: https://mermaid-js.github.io/mermaid/#/
 [^Mermaid Github]: https://github.com/knsv/mermaid
 
