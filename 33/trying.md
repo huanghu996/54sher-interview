@@ -19,7 +19,7 @@
 
 ```c++
 # include<bits/stdc++.h>
-using namespace std;s
+using namespace std;
 int main()
 {cout<<"无论是不是机器，露西就是露西！！"<<endl；
     return 0}
