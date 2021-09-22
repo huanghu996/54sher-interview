@@ -69,7 +69,7 @@ python(~~听说都要学欸~~)
 c++（好像不会用到？）
 
 ```html
-<pan class="heimu" title="你知道的太多了"> 那就只能自学了…… </span>
+<span class="heimu" title="你知道的太多了"> 那就只能自学了…… </span>
 ```
 
 （我还没搞都为什么这行命令没用😭）
