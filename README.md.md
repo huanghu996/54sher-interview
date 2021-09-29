@@ -4,16 +4,18 @@
 
 - 一开始接触git是这样的
 
-  ![](C:\Users\86195\Pictures\git\QQ图片20210926192405.jpg)
+  ![](https://s3.bmp.ovh/imgs/2021/09/457f1140074446be.jpg)
 
   当我有电脑然后有翻译之后
 
-  ![](C:\Users\86195\Pictures\git\QQ图片20210926192413.jpg)
+  ![](https://s3.bmp.ovh/imgs/2021/09/5be9f5e7bb23c2c2.jpg)
 
   ~~这不是很简单嘛~~
 
-  但后来发现git与GitHub不一样后![](C:\Users\86195\Pictures\git\QQ图片20210926193451.jpg)
+  但后来发现git与GitHub不一样后
 
+  ![](https://s3.bmp.ovh/imgs/2021/09/274d4f3cbb61b2e7.jpg)
+  
   
 
 **我哭了**
@@ -54,9 +56,7 @@
 
   
 
-- 但是实际上遇到了许多问题
-
-  ![](C:\Users\86195\Pictures\git\-b4a7f6b8b45fe4c.png)
+- 但是实际上遇到了许多问题(C:\Users\86195\Pictures\git\-b4a7f6b8b45fe4c.png)
 
 - 在询问和百度后，于是我输入了一下命令
 
@@ -67,15 +67,19 @@
 
 - 虽然实际上都是有用的，但每一个命令都重复了几次
 
-  ![](C:\Users\86195\Pictures\git\728fcd257b499aca.png)
-
-![](C:\Users\86195\Pictures\git\-34fcf8dad2c27461.png)
-
-
+  
+  
+  ![](https://s3.bmp.ovh/imgs/2021/09/7942b75f3f6ae246.png)
+  
+  *这张图片不知为什么图床的地址搞不好，反正就一些签名设计以及错误*
+  
+  ![](https://s3.bmp.ovh/imgs/2021/09/558f999724bf5822.png)
+  
+  ![](https://s3.bmp.ovh/imgs/2021/09/d134d71d030f2141.png)
 
 - **结果就是**
 
-  ![](C:\Users\86195\Pictures\git\61aeed2a51dcdff3.png)
+  ![](https://s3.bmp.ovh/imgs/2021/09/1f7afd53479f0583.png)
 
 - 后来在更改文件1的时候又用到了新的命令
 
@@ -103,7 +107,7 @@
 
   然后再进行上述操作.
 
-- 不过为什么无法pull我master的分支就很离谱。
+- 不过为什么无法pull我master的分支就很离谱。后来直接clone后就是main分支，也就可以上传了。
 
 # 2.markdown的学习
 
