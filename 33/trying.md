@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -73,4 +74,4 @@ int main()
 
 注：1.本文内容来源：[萌娘百科：露西·瓦伦汀](https://zh.moegirl.org.cn/露西·瓦伦汀)
 
-*** 该网页内容编辑者（萌娘昵称：hms hood has no human right）为面试者本人，不存在版权问题 ***
+** 该网页内容编辑者（萌娘昵称：hms hood has no human right）为面试者本人，不存在版权问题 **
