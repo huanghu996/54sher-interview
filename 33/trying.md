@@ -1,15 +1,12 @@
-<<<<<<< HEAD
-
-
-
-
 # 露西·瓦伦汀
 
 <div align="left"><img src=https://img.moegirl.org.cn/common/d/d4/%E9%9C%B2%E8%A5%BF%E7%93%A6%E4%BC%A6%E6%B1%80.jpeg width=60% />
 </div>
-* * [1.设定](#1)
-* * [2.结局](#2)
-* * [3.版权声明](#3)
+* [1.设定](#1)
+
+* [2.结局](#2)
+
+* [3.版权声明](#3)
 
 <h2 id="1">1.设定</h2>
 
