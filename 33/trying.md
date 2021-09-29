@@ -1,9 +1,18 @@
+
+
+
+
 # 露西·瓦伦汀
 
 <div align="left"><img src=https://img.moegirl.org.cn/common/d/d4/%E9%9C%B2%E8%A5%BF%E7%93%A6%E4%BC%A6%E6%B1%80.jpeg width=60% />
 </div>
+* * [1.设定](#1)
+* * [2.结局](#2)
+* * [3.版权声明](#3)
 
-### 人物设定
+<h2 id="1">1.设定</h2>
+
+### 基础设定
 
 ***
 
@@ -23,7 +32,6 @@ using namespace std;
 int main()
 {cout<<"无论是不是机器，露西就是露西！！"<<endl；
     return 0}
-
 ```
 
 <details>
@@ -34,6 +42,7 @@ int main()
   <br>维修店店长：第一天修好了露西的机体
 </details>
 
+
 <details>
     <summary>能力</summary>
     <br>1.自动混音器（嘿嘿……🥰少女音……嘿嘿）
@@ -43,7 +52,10 @@ int main()
 
 *******
 
+<h3 id="2">2.结局</h3>
+
 ### <font color=red>接下来内容包含剧透！</font>
+
 ~~这里不知道为什么没有变红~~
 
 <!--不知道这里为什么不行-->
@@ -56,6 +68,8 @@ int main()
 </details>
 
 ****
+
+<h4 id="3">3.版权声明</h4>
 
 注：1.本文内容来源：[萌娘百科：露西·瓦伦汀](https://zh.moegirl.org.cn/露西·瓦伦汀)
 
