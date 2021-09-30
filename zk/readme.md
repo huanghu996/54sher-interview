@@ -8,7 +8,7 @@
 
 一开始对于git 我并没有按照二面题目中给到的[廖雪峰git](https://www.liaoxuefeng.com/wiki/896043488029600)，而是先从B站上搜索学习资源。我找到了这个教程。[^如下图][^该教程的拍摄时间为2016年，所以用于参考即可]
 
-<img src="C:\Users\ZK\Desktop\程序部任务\批注 2021-09-30 155854.png" alt="alt bi" style="zoom:150%;" />
+<img src="02.png" alt="alt bi" style="zoom:150%;" />
 
 
 
@@ -28,36 +28,42 @@
 
    * 从github 中的仓库里获得我们所需的仓库链接 
 
-   * ![alt a](C:\Users\ZK\Desktop\程序部任务\批注 2021-09-30 163837.png)
+     <img src="03.png" alt="03">
 
    * 用下面的命令保存到本地仓库
    
-   * ```
+   * 
+     
+     ```
      git clone 链接
      ```
-
+     
    * 之后做出修改在使用下面的命令在本地仓库中保存
    
-   * ```
+   * 
+     
+     ```
      git add 文件名
      git commit -m"本次修改的相关描述"
      ```
-
+     
    * 在最后进行提交至远程仓库（即github）
-   
-   * ```
+
+   * 
+     
+     ```
      git push
      ```
-
-     
    
+     
+     
      
 
 ​          
 
 之后我想进一步学习git 于是便参考了[廖雪峰git](https://www.liaoxuefeng.com/wiki/896043488029600)  ，学到了如同时光机一样神奇的git
 
-<img src="C:\Users\ZK\Desktop\程序部任务\批注 2021-09-30 155000.png" alt="alt coding-start" style="zoom:40%;" />
+<img src="01.png" style="zoom:40%;" />
 
 
 
