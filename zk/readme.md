@@ -8,7 +8,7 @@
 
 一开始对于git 我并没有按照二面题目中给到的[廖雪峰git](https://www.liaoxuefeng.com/wiki/896043488029600)，而是先从B站上搜索学习资源。我找到了这个教程。[^如下图][^该教程的拍摄时间为2016年，所以用于参考即可]
 
-<img src="02.png" alt="alt bi" style="zoom:150%;" />
+![b](https://i0.hdslb.com/bfs/album/9a9c83041a891af633e9fa3a8376351e635ae13e.png@.webp)
 
 
 
@@ -28,7 +28,7 @@
 
    * 从github 中的仓库里获得我们所需的仓库链接 
 
-     <img src="03.png" alt="03">
+     ![lianjie](https://i0.hdslb.com/bfs/album/ccfd46559f9e6bd8b9a8493ed37179b718130d24.png@518w.webp)
 
    * 用下面的命令保存到本地仓库
    
@@ -63,7 +63,7 @@
 
 之后我想进一步学习git 于是便参考了[廖雪峰git](https://www.liaoxuefeng.com/wiki/896043488029600)  ，学到了如同时光机一样神奇的git
 
-<img src="01.png" style="zoom:40%;" />
+![git](https://i0.hdslb.com/bfs/album/1f93eda317e06d0c9949c0908fa228e2e4171404.png@518w.webp)
 
 
 
