@@ -1,25 +1,93 @@
-- zheshi
-- sfjfjf     
-fjsfj    
-- fsffiw  
-# nishuo  
-``#include<iostream>  
-   #include<iostream>  
-   using namespace std;  
-   int main(){  
-       int   
-   }``  
-     
+# git 简介及优势  
+- 分布式版本控制工具
+- 大部分操作在本地完成，不需要联网  
+- 完整性保证  
+- 尽可能添加数据而不是删除或修改数据
+- 分支操作非常快捷流畅
+- 与 Linux 命令全面兼容  
+# git结构
+#### 本地库（历史版本）  
+#### 暂存区（临时存储）
+#### 工作区（写代码）
+# git和代码托管中心
+## 代码托管中心的任务 ：维护远程库
+- 局域网环境下  
+  - gitlab服务器
+- 外网环境下
+  - github
+  - 码云
+# 本地库和远程库
+### 1.团队内部协作
+- 代码托管中心保存远程库，可以通过clone将远程库克隆到本地库
+- 本地库可以通过push加入团队或推送新的更改
+- 本地库也能通过pull获取其他成员对远程库的更改
+### 2.跨团队协作
+1. 其他团队可用fork获取并建立自己的远程库
+2. 其他团队用clone将该远程库克隆到自己的本地库上进行修改push
+3. 其他团队用pull request向本团队发起请求
+4. 本团队对请求进行审核，通过后用merge合并到本团队远程库上
+5. 本团队成员用pull获取该修改
+# git命令行操作
+1. 本地库初始化
+   - 命令：git init
+   - 注意：.git目录中存放的是本地库相关的子目录和文件，最好不要修改。
+2. 设置签名
+   - 形式
+     - 用户名
+     - Email地址
+   - 作用：区分不同开发人员的身份
+   -  辨析：这里设置的签名和登录远程库(代码托管中心)的账号、密码没有任何关
+系。
+   - 命令
+      - 项目级别/仓库级别：仅在当前本地库范围内有效
+         - git config user.name ...
+         - git config user.email ...
+         - 信息保存位置：./.git/congig文件
+      -  系统用户级别：登录当前操作系统的用户范围
+         - git config --global user.name ...
+         - git config --global user.email ...
+         - 信息保存位置：~/.gitconfig文件
+      - 区别优先级
+         - 就近原则：项目级别优先于系统用户级别，二者都有时采用项目级别的签名
+         - 如果只有系统用户级别的签名，就以系统用户级别的签名为准
+         - 二者都没有不允许
+3. 基本操作
+    1. git status (状态查看) 查看工作区、缓存区状态
+    2. git add （file name）(添加) 将工作区的“新建/修改”添加到暂存区
+    3. git commit -m "commit message" 【file name】（提交）将暂存区的内容提交到本地库
+    4. git log (查看历史记录) 
+        - git log --pretty=oneline
+        - git log --oneline
+        - git reflog
+    5. 前进后退
+        - 基于索引值操作 : git reset --hard [局部索引值]
+        - 使用^符号，只能后退
+            - git reset --hard HEAD^
+            - 注：一个^表示后退一步，n 个表示后退 n 步
+        -  使用~符号：只能后退
+            -  git reset --hard HEAD~n
+            -  注：表示后退 n 步
+    6. reset 命令的三个参数对比
+        - --soft参数
+            -  仅仅在本地库移动 HEAD 指针
+        - --mixed 参数
+            -  在本地库移动 HEAD 指针
+            -  重置暂存区
+        - --hard 参数
+            -  在本地库移动 HEAD 指针
+            -  重置暂存区
+            -  重置工作区
+    7.  删除文件并找回
+        -  前提：删除前，文件存在时的状态提交到了本地库。
+        - 操作：git reset --hard [指针位置]
+            - 删除操作已经提交到本地库：指针位置指向历史记录
+            - 删除操作尚未提交到本地库：指针位置使用 HEAD
+    8. 比较文件差异
+        -  git diff [文件名]
+            -  将工作区中的文件和暂存区进行比较
+        -  git diff [本地库中历史版本] [文件名]
+            -  将工作区中的文件和本地库历史记录比较
+        -  不带文件名比较多个文件
+4. 分支管理
 
-这是一个链接[百度](https://www.baidu.com/)  
-[heihei](https://www.luogu.com.cn/)  
-![黑洞](https://tse1-mm.cn.bing.net/th/id/OIP-C.mnuUmDYHlKRhZZv6KufXtAHaEo?w=272&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7)   
-	| Syntax      | Description |  
-| ----------- | ----------- |  
-| Header      | Title       |  
-| Paragraph   | Text        |   
-- [x] jaskfj  
-- [ ] jsfsaff
-- [ ] dffjffkd
-
-
+    
