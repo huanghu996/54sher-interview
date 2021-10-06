@@ -8,18 +8,23 @@
 
 学习git对我来说是一个痛苦的过程，看着同学们飞快的步伐，我逐渐开始急躁了起来；一个三小时的教学视频，我只看了半小时。这也导致我对git操作是干什么的逐渐迷茫。当学完markdown后我便陷入了一种难以言表的状态------我都不知道我要干什么。不得已，只好重新来过。幸好，有黄鹄学长“坚持不懈”的**长达三天**的详细讲解，以及很多同学（特别是王弘毅）的帮助，我才走出了怪圈。
 至于学习git的过程，首先是理解每个词的含义，本以为这会是资格简单的过程，没想到竟成为我花时间最多的地方，也是我经常出错的地方。理解后，便开始在git上开始自己写。一开始还要一个一个对着写，后来便好了许多。
+**以下是在学习中一些的笔记：**
+![](https://github.com/QueenLotus/54sher-interview/blob/main/renwuyizuoye/Git%E7%85%A7%E7%89%871.jpg)
+![](https://github.com/QueenLotus/54sher-interview/blob/main/renwuyizuoye/Git%E7%85%A7%E7%89%872.jpg)
+![](https://github.com/QueenLotus/54sher-interview/blob/main/renwuyizuoye/Git%E7%85%A7%E7%89%873.jpg)
+**以及实践时的情形：**
+![](https://github.com/QueenLotus/54sher-interview/blob/main/renwuyizuoye/%E5%AE%9E%E8%B7%B5.jpg)
+**附加一张逼疯学长的截图：**
+![](https://github.com/QueenLotus/54sher-interview/blob/main/renwuyizuoye/liaotianjilu.jpg)
 
 ## 2.学习Markdown的过程
 
 可能是之前学习过一些Python，所以我感觉还是~~很简单的~~（可能是我没看到精髓😜），至于过程，只能说左手百度+右手B站=天下我有
-
-![](https://github.com/QueenLotus/images-xiaowei/blob/main/IMG_20211003_184110.jpg)
-
-![](https://github.com/QueenLotus/images-xiaowei/blob/main/IMG_20211003_184115.jpg)
-
+![](https://github.com/QueenLotus/54sher-interview/blob/main/renwuyizuoye/IMG_20211003_184110.jpg)
+![](https://github.com/QueenLotus/54sher-interview/blob/main/renwuyizuoye/IMG_20211003_184115.jpg)
 以上就是我在学习Markdown是做的笔记（可能自己不适应电子档还是喜欢用纸笔来记忆）
 
-一开始我以为所有的功能都要通过及代码的方式来实现，后面才发现有个东西叫做快捷键。q(≧▽≦q)( •̀ ω •́ )✧
+一开始我以为在typora所有的功能都要通过写代码的方式来实现，后面才发现有个东西叫做快捷键。q(≧▽≦q)( •̀ ω •́ )✧
 
 ## 3.Markdown的实践
 
@@ -32,9 +37,7 @@
 1. **简介**：这个大块头能吸收大量伤害，也会摧毁所有拦路之物。他在防御时会拼命守护领土：一旦解锁铁拳出击技能，他就能在进攻时释放出公布的力量。
 2. **现状**：做最累的事，挨最毒的打。升级排最后，升级不费书
 
-![](https://github.com/QueenLotus/images-xiaowei/blob/main/%E5%9C%B0%E4%BD%8D.jpg)
-
-
+![](https://github.com/QueenLotus/54sher-interview/blob/main/renwuyizuoye/%E5%9C%B0%E4%BD%8D.jpg)
 
 3. **作用**：
 
@@ -46,19 +49,11 @@
 4.  **皮肤**：皮肤很多，只选两个。
 
 **最贵的：** *派对蛮王*
-
-
-
-![](https://github.com/QueenLotus/images-xiaowei/blob/main/%E5%9C%B0%E4%BD%8D.jpg)
-
-
+![](https://github.com/QueenLotus/54sher-interview/blob/main/renwuyizuoye/%E6%9C%80%E8%B4%B5.jpg)
 
 **我认为最好看的：** *骷髅蛮王*
 
-![](https://github.com/QueenLotus/images-xiaowei/blob/main/86cdd1ab5ad44d64b233c41be1a362e2.jpg)
-
-
-
+![](https://github.com/QueenLotus/54sher-interview/blob/main/renwuyizuoye/86cdd1ab5ad44d64b233c41be1a362e2.jpg)
 
 
 5.**使用技巧**：<u> （自身意见）</u>
@@ -108,19 +103,19 @@ So，这样的蛮王你爱了吗？
 
 **在很多人眼中（~~包括我自己~~），学程序的人是这样的：（日常废话）**
 
-![](https://github.com/QueenLotus/images-xiaowei/blob/main/%E5%85%89%E5%A4%B4.jpg)
+![](https://github.com/QueenLotus/54sher-interview/blob/main/renwuyizuoye/%E5%85%89%E5%A4%B4.jpg)
 
 **然而，在一面中，面试我的学长都是这样的：**
 
-![](https://github.com/QueenLotus/images-xiaowei/blob/main/%E5%BD%AD%E4%BA%8E%E6%99%8F%E5%9B%BE.jpg)
+![](https://github.com/QueenLotus/54sher-interview/blob/main/renwuyizuoye/%E5%BD%AD%E4%BA%8E%E6%99%8F%E5%9B%BE.jpg)
 
 **另外，想学习如何在学校避免变成这样：**
 
-![](https://github.com/QueenLotus/images-xiaowei/blob/main/%E4%B8%80%E7%BE%A4%E5%85%89%E5%A4%B4.jpg)
+![](https://github.com/QueenLotus/54sher-interview/blob/main/renwuyizuoye/%E4%B8%80%E7%BE%A4%E5%85%89%E5%A4%B4.jpg)
 
 **转而变成这样：**
 
-![](https://github.com/QueenLotus/images-xiaowei/blob/main/QQ%E5%9B%BE%E7%89%8720211003180602.jpg)
+![](https://github.com/QueenLotus/54sher-interview/blob/main/renwuyizuoye/QQ%E5%9B%BE%E7%89%8720211003180602.jpg)
 
 ****
 
