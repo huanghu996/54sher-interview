@@ -187,6 +187,16 @@ title长沙的夏天为啥这么热
 "40℃以上":2
 ```
 
+***
+
+## 第四部分：我想要获得的提升
+
+### 因为我是纯小白。。不像有些人说自己是小白，实际背地里早就翻过c++啥的。
+
+## Python    Java（有点老了？）   c++（不知道用不用得上）
+
+## They who know the truth are not equal to those who love it ,and they who love it are not equal to those who delight in it
+
 
 
 
