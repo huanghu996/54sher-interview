@@ -1,0 +1,52 @@
+# git入门学习
+
+## 1、基本信息设置
+
+```java
+//设置用户名
+git config --global user.name 'CircleCircleZero'
+//设置用户名邮箱
+git config --global user.name '2925665424@qq.com'
+//查看设置
+git config --list
+```
+
+## 2、添加文件
+
+```java
+//文件中新创文件
+mkdir+文件名称 
+//创建文件
+touch test1.php
+//添加到暂存区
+git add test1.php
+//提交到仓库
+git commit -m '提交描述'
+//查看文件状态
+git status
+```
+
+## 3、删除文件
+
+```java
+//删除文件
+rm test1.php
+//从git中删除文件
+git rm test1.php
+//提交操作
+git commit -m '提交描述'
+```
+
+## 4、在文件内初始化git（创建git仓库）
+
+```java
+//mkdir+文件名 --创建文件夹
+//touch+目录 --创建目录
+//cd test --位置跳转进test文件中
+//git init --创建git仓库
+
+//pwd --显示当前位置
+```
+
+
+
